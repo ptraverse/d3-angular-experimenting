@@ -1,0 +1,23 @@
+{
+  "name": "d3AngularIntegration",
+  "version": "1.0.0",
+  "description": "Integrating d3 and Angular ========================== There is a [github repo][1] with code to accompany this post.  Contributions are encouraged!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EpiphanyMachine/d3AngularIntegration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpiphanyMachine/d3AngularIntegration/issues"
+  },
+  "homepage": "https://github.com/EpiphanyMachine/d3AngularIntegration",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
