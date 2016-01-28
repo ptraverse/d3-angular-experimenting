@@ -1,0 +1,27 @@
+{
+  "name": "d3AngularIntegration",
+  "description": "messing about",
+  "main": "server.js",
+  "authors": [
+    "Philippe Traverse <philippe.traverse@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ptraverse/d3-angular-experimenting",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.14",
+    "nvd3": "^1.8.2",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.4.9",
+    "angular-nvd3": "^1.0.5"
+  }
+}
